@@ -22,7 +22,7 @@ Set in a world where the moon watches over fate — your choices will shape ever
 
 ## 🚧 Status
 
-Actively in development. Follow progress on [X](https://x.com/QuFyK)
+Actively in development. Follow progress on [X](https://x.com/QuFyK), [telegram](https://t.me/moonygodgame)
 
 ## 🎮 Technologies Used
 
